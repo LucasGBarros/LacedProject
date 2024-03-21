@@ -24,6 +24,6 @@ This repository contains automated tests for the LACED website, focusing on the 
 
 6th Step: Select Chrome browser and then click "Start E2E Testing in Chrome"
 
-7th Step: After Chrome browser opens, click on "case.spec.cy.js".
+7th Step: After Chrome browser opens, click on "laced.cy.js".
 
 8th Step: Automation running
