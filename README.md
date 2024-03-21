@@ -1,4 +1,4 @@
-# Welcome to my repository!
+# Welcome to my repository! 👋
 
 ## Automated Testing for LACED Website - Search, Add to Cart, and Purchase Process
 
