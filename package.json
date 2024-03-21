@@ -1,0 +1,18 @@
+{
+  "name": "zaraproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Zara Tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  },
+  "devDependencies": {
+    "creditcard-generator": "^0.0.7",
+    "faker": "^5.5.3"
+  }
+}
